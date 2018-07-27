@@ -12,5 +12,7 @@
         - I want to get IP address from ThingsPro Gateway
             - [Enabling / Configuring DHCP Server settings](https://www.moxa.com/doc/man/ThingsPro_Software_Suite_UM_e6.0.pdf#page=48)
     - [Port Mapping](https://www.moxa.com/doc/man/ThingsPro_Software_Suite_UM_e6.0.pdf#page=54)
-- [Upgrade firmware -- Linux image and ThingsPro](https://hackmd.io/s/r1NTxYF5G#)
+- Firmware Upgrade
+    - [Upgrade firmware for UC-8100-ME -- Linux image and ThingsPro](https://hackmd.io/s/r1NTxYF5G#)
+    - [Upgrade firmware for UC-8100 -- Linux image](https://hackmd.io/s/Sk5Aj8qpz)
 - [Install GPSD and use GPSpipe to forward GPS data to a serial port](https://hackmd.io/s/SJw4aKN1X#)
