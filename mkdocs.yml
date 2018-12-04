@@ -1,4 +1,5 @@
 site_name: Moxa IIoT Guide [Work in Progress]
+site_url: https://guide.iiot.party
 theme:
   name: 'material'
   palette:
@@ -10,20 +11,27 @@ theme:
 repo_name: 'MOXA-ISD/iiot-guide'
 repo_url: 'https://github.com/MOXA-ISD/iiot-guide'
 
-pages:
-- Home: 'index.md'
-- Installfest:
-  - ThingsPro: 'installfest/index.md'
-  - 'Install on  UC-8100 Series': 'installfest/uc-8100-series/index.md'
-  - 'Install on MC-1100': 'installfest/index.md'
-- IT Daily Life:
-  - 'it-daily-life/index.md'
-- OT Integration:
-  - 'ot-integration/index.md'
-- Into the Wild:
-  - 'into-the-wild/index.md'
-- Dev, Dev, Dev:
-  - 'dev-dev-dev/index.md'
+nav:
+- Home:
+  - 'index.md'
+- Get Started:
+  - 'Overview': 'get-started/index.md'
+  - 'Install on UC-8100 Series': 'get-started/uc-8100-series/index.md'
+- Networking:
+  - 'networking/index.md'
+- Operations:
+  - 'operations/index.md'
+- Use Cases:
+  - 'Overview': 'usecases/index.md'
+  - Ignition Edge:
+    - 'usecases/ignition/install/index.md'
+  - Azure IoT Edge:
+    - 'usecases/iotedge/install.md'
+- Development:
+  - 'dev/index.md'
+- Support:
+  - 'support/index.md'
 - About:
+  - 'Audience': 'about/audience.md'
   - 'License': 'about/license.md'
   - 'How to contribute': 'about/how-to-contribute.md'

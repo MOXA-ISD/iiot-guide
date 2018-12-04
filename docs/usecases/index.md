@@ -1,7 +1,6 @@
-# OT Integration
+# Use Cases
 
-**Target Audience**: Level 2
-
+## ThingsPro Use Cases
 - Field Protocol (where the data comes from)
     - Modbus TCP/RTU
         - [How to connect to a modbus slave (e.g. ioLogik)](https://www.moxa.com/doc/man/ThingsPro_Software_Suite_UM_e6.0.pdf#page=68)
@@ -17,3 +16,10 @@
         - [ThingsPro configuration page](https://www.moxa.com/doc/man/ThingsPro_Software_Suite_UM_e6.0.pdf#page=89)
     - Ignition Edge (Russ)
     - Ignition Server (Zack)
+
+## Ignition Edge on UC-8100-ME
+- [Install Ignition Edge on UC-8100-ME Series](ignition/install/index.md)
+
+## Azure IoT Edge on UC-8100-ME
+- [Install Azure IoT Edge on UC-8100-ME Series](iotedge/install.md)
+- [Build a Solar monitoring system with Azure IoT Edge (WIP)]()

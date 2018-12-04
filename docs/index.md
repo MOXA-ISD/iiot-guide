@@ -1,10 +1,11 @@
 # Welcome to IIoT Guide
 
-## Definitions
+This website is mainly desgined for ThingsPro V2.x versions. You would be able to learn how to load ThingsPro to eliglbe Moxa devices, upgrade firmware, configure networking interfaces, poll tags from Modbus devices and so on.
 
-### Audience Levels
+## 10-Minute Get started with ThingsPro
 
-1. General (Everyone)
-2. General+ (Sales with tech background)
-3. Technical (TS, FAE)
-4. Technical+ (Software Engineer)
+1. Get your eligble Moxa device
+    - UC-8100 Series
+    - UC-8100-ME Series
+    - MC-1100 Series
+2. Follow the instruction in [get-started](/get-started)
