@@ -25,6 +25,7 @@ nav:
   - 'Overview': 'usecases/index.md'
   - Ignition Edge:
     - 'usecases/ignition/install/index.md'
+    - 'usecases/ignition/tp-solar/index.md'
   - Azure IoT Edge:
     - 'usecases/iotedge/install.md'
 - Development:
