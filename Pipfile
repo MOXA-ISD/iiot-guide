@@ -8,6 +8,9 @@ verify_ssl = true
 [packages]
 mkdocs = "*"
 mkdocs-material = "*"
+singledispatch = "*"
+futures = "*"
+backports_abc = "*"
 
 [requires]
 python_version = "2.7"
