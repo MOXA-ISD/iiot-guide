@@ -17,8 +17,10 @@
     - Ignition Edge (Russ)
     - Ignition Server (Zack)
 
+
 ## Ignition Edge on UC-8100-ME
 - [Install Ignition Edge on UC-8100-ME Series](ignition/install/index.md)
+- [ThingsPro/Ignition Integration Example: Solar Montioring](ignition/tp-solar/index.md)
 
 ## Azure IoT Edge on UC-8100-ME
 - [Install Azure IoT Edge on UC-8100-ME Series](iotedge/install.md)
