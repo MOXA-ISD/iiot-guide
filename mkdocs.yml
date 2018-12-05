@@ -36,3 +36,7 @@ nav:
   - 'Audience': 'about/audience.md'
   - 'License': 'about/license.md'
   - 'How to contribute': 'about/how-to-contribute.md'
+
+google_analytics:
+  - 'UA-130485804-1'
+  - 'auto'
