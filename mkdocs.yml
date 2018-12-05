@@ -17,8 +17,8 @@ nav:
 - Get Started:
   - 'Overview': 'get-started/index.md'
   - 'Install on UC-8100 Series': 'get-started/uc-8100-series/index.md'
-- Networking:
-  - 'networking/index.md'
+- Network:
+  - 'network/index.md'
 - Operations:
   - 'operations/index.md'
 - Use Cases:
