@@ -74,7 +74,7 @@ Using this link:
 http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
 Example:
-![](images/image_3.png)
+![](https://i.imgur.com/wAQGD6V.jpg)
 
 ---
 
