@@ -1,17 +1,12 @@
 # Network
 
-**Target Audience**: Level 2
+- OpenVPN
+    - [Configure OpenVPN client in ThingsPro Gateway](https://www.moxa.com/doc/man/ThingsPro_Software_Suite_UM_e6.0.pdf#page=51)
+    - Create OpenVPN Access Server on AWS (coming soon)
+    - [Manage device behind ThingsPro with Port Forwarding](https://www.moxa.com/doc/man/ThingsPro_Software_Suite_UM_e6.0.pdf#page=54)
+    - OpenVPN on Azure (coming soon)
 
-- Network
-    - OpenVPN
-        - [Configure OpenVPN in ThingsPro Gateway](https://www.moxa.com/doc/man/ThingsPro_Software_Suite_UM_e6.0.pdf#page=51)
-        - Create OpenVPN Access Server on AWS (coming soon)
-        - [Manage device behind ThingsPro with Port Forwarding](https://www.moxa.com/doc/man/ThingsPro_Software_Suite_UM_e6.0.pdf#page=54)
-        - OpenVPN on Azure (coming soon)
-    - DHCP Server
-        - I want to get IP address from ThingsPro Gateway
-            - [Enabling / Configuring DHCP Server settings](https://www.moxa.com/doc/man/ThingsPro_Software_Suite_UM_e6.0.pdf#page=48)
-    - [Port Mapping](https://www.moxa.com/doc/man/ThingsPro_Software_Suite_UM_e6.0.pdf#page=54)
-- Firmware Upgrade
+- DHCP Server
+    - [Enabling / Configuring DHCP Server settings](https://www.moxa.com/doc/man/ThingsPro_Software_Suite_UM_e6.0.pdf#page=48)
 
-- [Install GPSD and use GPSpipe to forward GPS data to a serial port](https://hackmd.io/s/SJw4aKN1X#)
+- [Port Mapping](https://www.moxa.com/doc/man/ThingsPro_Software_Suite_UM_e6.0.pdf#page=54)
