@@ -90,10 +90,10 @@ Connect to the UC-8100 via SSH, using PuTTY or similar utility, and run the foll
 > Note: The filename will change as the version is updated. Use the latest version/filename.
 
 Untar the JDK:
-`moxa@Moxa:~$ sudo tar -xvzf jdk-8u181-linux-arm32-vfp-hflt.tar.gz`
+`moxa@Moxa:~$ sudo tar -xvzf jdk-8u191-linux-arm32-vfp-hflt.tar.gz`
 
 Remove the tar.gz file:
-`moxa@Moxa:~$ sudo rm jdk-8u181-linux-arm32-vfp-hflt.tar.gz`
+`moxa@Moxa:~$ sudo rm jdk-8u191-linux-arm32-vfp-hflt.tar.gz`
 
 ---
 
