@@ -87,6 +87,8 @@ Transfer the JVM to UC-8100 and untar it. Just leave the file in /home/moxa dire
 
 Connect to the UC-8100 via SSH, using PuTTY or similar utility, and run the following commands in the /home/moxa directory:
 
+> Note: The filename will change as the version is updated. Use the latest version/filename.
+
 Untar the JDK:
 `moxa@Moxa:~$ sudo tar -xvzf jdk-8u181-linux-arm32-vfp-hflt.tar.gz`
 
