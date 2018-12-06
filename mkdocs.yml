@@ -21,6 +21,7 @@ nav:
   - 'network/index.md'
 - Operations:
   - 'operations/index.md'
+  - 'Upgrade Linux/Debian': 'operations/debian-upgrade.md'
 - Use Cases:
   - 'Overview': 'usecases/index.md'
   - Ignition Edge:

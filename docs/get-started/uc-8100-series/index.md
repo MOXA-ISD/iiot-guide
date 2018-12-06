@@ -1,6 +1,6 @@
 # ThingsPro Installation (for UC-8100-ME Series)
 
-In this guide, we will be upgrading the UC-8100-ME Series to the newest firmware and installing ThingsPro onto the UC-8100-ME Series.
+In this guide, we will be upgrading the UC-8100-ME Series to the newest firmware and installing ThingsPro onto the UC-8100-ME Series. You could also check the official [ThingsPro® Gateway Quick Installation Guide](https://www.moxa.com/doc/man/ThingsPro_Gateway_QIG_e3.0.pdf) for more infomation.
 
 ## Prerequisites
 

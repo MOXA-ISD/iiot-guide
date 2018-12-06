@@ -1,4 +1,4 @@
-# Network
+# Overview
 
 - OpenVPN
     - [Configure OpenVPN client in ThingsPro Gateway](https://www.moxa.com/doc/man/ThingsPro_Software_Suite_UM_e6.0.pdf#page=51)

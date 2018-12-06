@@ -1,12 +1,8 @@
-# Dev, Dev, Dev
-
-**Target Audience**: Level 3 + 4
+# Development
 
 - RESTful API
-    - ThingsPro Gateway (TBD)
-    - ThingsPro Server (TBD)
+    - ThingsPro Gateway
+    - ThingsPro Server
 - Data Acquisition
-    - Data Massage 101 (TBD)
+    - Data Massage 101
         - Avg/Min/Max/etc.
-- Node-Red
-    - MQTT + Modbus integration (Zack, In-progress)

@@ -1,4 +1,4 @@
-# Install IoT Edge on UC-8100-ME (Debian 8)
+# Install Azure IoT Edge on UC-8100-ME
 
 ## Install IoT Edge
 

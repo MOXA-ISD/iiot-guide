@@ -1,16 +1,12 @@
 # Overview
 
-**Target Audience**: Level 2
-
-- How to install ThingsPro Gateway on eligible devices
+- Install ThingsPro Gateway on eligible devices
     - [UC-8100 and UC-8100-ME Series](/get-started/uc-8100-series)
     - MC-1100 Series (coming soon)
 
-- How to upgrade firmware
-    - [Upgrade firmware for UC-8100-ME -- Linux image and ThingsPro](https://hackmd.io/s/r1NTxYF5G#)
-    - [Upgrade firmware for UC-8100 -- Linux image](https://hackmd.io/s/Sk5Aj8qpz)
+- Upgrade Firmware/Software: [link](/operations)
 
-- How to backup the entire firmware image, create a bootable SD card, and boot up from an SD card
+- Backup the entire firmware image, create a bootable SD card, and boot up from an SD card
     - [UC-8100-ME procedure](https://hackmd.io/s/SJJ3QIBsz#)
 
 
