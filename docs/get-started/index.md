@@ -6,9 +6,7 @@
 
 - Upgrade Firmware/Software: [link](/operations)
 
-- Backup the entire firmware image, create a bootable SD card, and boot up from an SD card
-    - [UC-8100-ME procedure](https://hackmd.io/s/SJJ3QIBsz#)
-
+- Backup the entire firmware image: [link](https://github.com/Moxa-Linux/resize-image#steps-to-create-a-customized-image)
 
 ### Advanced Topic
 

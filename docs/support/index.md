@@ -1,6 +1,6 @@
 # Support
 
-- For techicanl issues, please [contact Moxa TS Team](https://www.moxa.com/support/request_support.aspx) by moxa.com directly.
+- For techicanl issues, please [contact Moxa TS Team (moxa.com)](https://www.moxa.com/support/request_support.aspx).
 
 - For product information, please find your [local sales representatives](https://www.moxa.com/where_to_buy/search.aspx).
 
