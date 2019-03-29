@@ -1,22 +1,22 @@
 # RESTful API
 
-## Requirements/Constraints in ThinsPro v2.0
-- A valid access token (obtained through ThingsPro web consule using the root
-  account)
+### Requirements/Constraints in ThinsPro v2.0
+- A valid access token 
+>obtained through ThingsPro web consule using the root accont
+- URL Structure
+> https://<ipaddress>/api/v1/<resource>
 
-## URL Structure
+
+## RESTful API via Python
 ```
-https://<ipaddress>/api/v1/<resource>
+$ sudo pip install requests
+$ ./<filename>.py
 ```
 
-### Restful API via Python
-#### Requirements
-- Request Library
-
-
-|          | Description      | Program                 |
-| -------- | ---------------- | ----------------------- |
-| 001      | System Status    | 001-system-resource     |
-| 002      | Network Status   | 002-network-resource    |
-| 003      |                  |                         |
-
+|          | Description      | Program                      |
+| -------- | ---------------- | ---------------------------- |
+| 001      | System Status    | 001-system-resource.py       |
+| 002      | Network Status   | 002-network-resource.py      |
+| 003      | DNS Status       | 003-dns-resource.py          |
+| 004      | Ethernet Status  | 004-ethernets-resource.py    |
+| 005      | Generic MQTT     | 005-generic-mqtt-resource.py |
