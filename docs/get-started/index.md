@@ -8,6 +8,8 @@
 
 - Backup the entire firmware image: [link](https://github.com/Moxa-Linux/resize-image#steps-to-create-a-customized-image)
 
+- Run OpenVPN client while booting: [OpenVPN client](/get-started/openvpn-client-systemd)
+
 ### Advanced Topic
 
 - How to connect ThingsPro Gateway to ThingsPro Server by using ThingsPro Device Enablement utility
